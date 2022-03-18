@@ -7,7 +7,7 @@ public class Lec2Ex5 {
 		double dN;
 		double dPI=0;
 		double dX=4,dY=1;
-		System.out.println("반복획수 입력: ");
+		System.out.println("반복횟수 입력: ");
 		dN = input.nextDouble();
 		
 		for(int i=1; i<=dN; i++) {
