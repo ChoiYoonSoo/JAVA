@@ -7,7 +7,7 @@ public class Lec3Ex2 {
 		int n;
 		System.out.println("양의 정수 입력:");
 		n = input.nextInt();
-		System.out.println(n+"의 정수는 다음과 같습니다.");
+		System.out.println(n+"의 약수는 다음과 같습니다.");
 		
 		for(int i = 1; i<=n; i++) {
 			if(n % i == 0)
