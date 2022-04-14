@@ -10,6 +10,7 @@ public class TheaterReserve {
 		for(int i=1; i<=seat.length; i++) {
 			System.out.print(i+"  ");
 		}
+		
 		System.out.println("\n-  -  -  -  -  -  -  -  -  - ");
 		
 		for(int i=0; i<seat.length; i++) {
